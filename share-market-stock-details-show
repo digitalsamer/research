@@ -1,0 +1,82 @@
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "proName": "FOREXCOM:NSXUSD",
+      "title": "US 100"
+    },
+    {
+      "proName": "FX_IDC:EURUSD",
+      "title": "EUR/USD"
+    },
+    {
+      "description": "",
+      "proName": "AMEX:ARKK"
+    },
+    {
+      "description": "",
+      "proName": "BSE:SENSEX"
+    },
+    {
+      "description": "",
+      "proName": "BSE:NIFTYBEES"
+    },
+    {
+      "description": "",
+      "proName": "BSE:GOLDBEES"
+    },
+    {
+      "description": "",
+      "proName": "BSE:BANKBEES"
+    },
+    {
+      "description": "",
+      "proName": "BSE:CPSEETF"
+    },
+    {
+      "description": "",
+      "proName": "BSE:BANKBEES"
+    },
+    {
+      "description": "",
+      "proName": "BSE:QNIFTY"
+    },
+    {
+      "description": "",
+      "proName": "BSE:SBISENSEX"
+    },
+    {
+      "description": "",
+      "proName": "NSE:MON100"
+    },
+    {
+      "description": "",
+      "proName": "NSE:ICICIBANKN"
+    },
+    {
+      "description": "",
+      "proName": "BSE:MAFANG"
+    },
+    {
+      "description": "",
+      "proName": "BSE:MAFSETF"
+    },
+    {
+      "description": "",
+      "proName": "BSE:HNGSNGBEES"
+    }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "light",
+  "isTransparent": false,
+  "displayMode": "regular",
+  "locale": "en"
+}
+
+
+
+
+  </script>
+</div>
